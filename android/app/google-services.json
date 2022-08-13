@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178950948336",
+    "project_id": "thesocialite-8f4fc",
+    "storage_bucket": "thesocialite-8f4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178950948336:android:37801144829480dc51c935",
+        "android_client_info": {
+          "package_name": "com.example.socialite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178950948336-aru5jcaonmrtsud7lfstd8fnjga9c7si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialite",
+            "certificate_hash": "d127d07e052705fecc19535829e36293c3c56306"
+          }
+        },
+        {
+          "client_id": "178950948336-qouc0ts1phf9defg67f8va3fgnu7ggug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxHn2t69XbyGSXY1UDiQ2eGyFut2bgZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178950948336-qouc0ts1phf9defg67f8va3fgnu7ggug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
